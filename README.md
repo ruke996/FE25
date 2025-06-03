@@ -2,7 +2,7 @@
 
 ### 컴퓨터공학과 배현준
 
-### 디플로이된 웹사이트 주소 : [https://preeminent-puffpuff-2b6db3.netlify.app/](https://preeminent-puffpuff-2b6db3.netlify.app/)
+### 디플로이된 웹사이트 주소 : https://1551027bae.netlify.app/
 
 ### 13장 프로젝트 요약
 
